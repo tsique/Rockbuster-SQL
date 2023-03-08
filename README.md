@@ -16,3 +16,7 @@ Which countries are Rockbuster customers based in?
 Where are customers with a high l ifetime value based?
 
 Do sales figures vary between geographic regions?
+
+# Data Download
+Rockbuster Stealth Dataset:
+[http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip]
