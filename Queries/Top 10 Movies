@@ -1,0 +1,10 @@
+SELECT title,  
+	rating, 
+	name AS genre,  
+	SUM (amount) AS total payment 
+FROM payment A  
+INNER JOIN rental B on A. rental_id = B. rental_id 
+INNER JOIN inventory C On B. inventory_id = C. inventory_id INNER JOIN film D ON C. film_id = D. film_id  
+INNER JOIN category F ON E. category_id = F. category_id  GROUP BY title, rating, rental_duration, name 
+ORDER BY SUM (amount) DESC  
+LIMIT 10 
