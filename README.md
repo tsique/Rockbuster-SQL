@@ -19,5 +19,4 @@ Do sales figures vary between geographic regions?
 
 ## Rockbuster Stealth Dataset 
 
-The dataset can be obtained [here]
-(http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+The dataset can be obtained [here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
