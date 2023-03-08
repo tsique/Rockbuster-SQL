@@ -17,6 +17,7 @@ Where are customers with a high l ifetime value based?
 
 Do sales figures vary between geographic regions?
 
-## Rockbuster Stealth Dataset:
+## Rockbuster Stealth Dataset 
 
-http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
+The dataset can be obtained [here]
+(http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
