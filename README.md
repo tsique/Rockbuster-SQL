@@ -3,15 +3,16 @@ Data analysis project conducted in SQL for CareerFoundry Data Analytics Program.
 
 ## Objective
 The Rockbuster Stealth Management Board has asked a series of business questions and
-they expect data-driven answers that they can use for their 2020 company strategy. Here are
-the main questions they’d l ike to answer:
+they expect data-driven answers that they can use for their 2020 company strategy. 
 
-● Which movies contributed the most/least to revenue gain?
+Here are the main questions:
 
-● What was the average rental duration for all videos?
+Which movies contributed the most/least to revenue gain?
 
-● Which countries are Rockbuster customers based in?
+What was the average rental duration for all videos?
 
-● Where are customers with a high l ifetime value based?
+Which countries are Rockbuster customers based in?
 
-● Do sales figures vary between geographic regions?
+Where are customers with a high l ifetime value based?
+
+Do sales figures vary between geographic regions?
